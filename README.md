@@ -37,6 +37,10 @@ Key concepts demonstrated:
 * Schema creation
 * Healthcare data modeling
 
+#### ER Diagrams:
+<img src="hospital-database/diagrams/CSE3153 - Lab 1 - Part 1.png" alt="ER Diagram Part 1" width="500">
+<img src="hospital-database/diagrams/CSE3153 - Lab 1 - Part 2.png" alt="ER Diagram Part 2" width="500">
+
 ### Final Database Project
 
 A comprehensive SQL project focused on database creation, data organization, and query development.
